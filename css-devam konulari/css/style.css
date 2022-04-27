@@ -1,0 +1,86 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+.box {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;  
+}
+.container {
+    width: 850px;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    margin: 50px auto 0;
+}
+.left-bar {
+    width: 200px;
+    float: left;
+}
+.content {
+    width: 800px;
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+
+
+
+/* Aciklama Satiri */
+
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+/* css selectors */
+/*
+
+li:first-child {
+    color: green;
+}
+li:last-child {
+    color: aqua;
+}
+li:nth-child(2n-1) {
+    color: grey;
+}
+
+.color-blue.fs-italic {
+    color: blue;
+    font-style: italic;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: blue;
+}
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+#first-article {
+    font-size: 40px;
+}
+.text-red {
+    color: red;
+}
+.fs-10 {
+    font-size: 10px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+.fs-60 {
+    font-size: 60px;
+}
+*/
