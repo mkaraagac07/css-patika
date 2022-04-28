@@ -27,7 +27,7 @@
 }
 .card {
     width: 20%;
-    float: left;
+    float: none;
     padding: 5%;
     margin-right: 3%;
     background-color: aquamarine;

@@ -1,0 +1,56 @@
+/* css odev2 */
+
+#first-article {
+    text-align: center;
+}
+
+#fs-small {
+    font-size: small;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  background-color: #e9e9e9;
+  }
+
+.box {
+    margin-left: 5%;
+    margin-right: 5%;
+    }
+
+.card1 {
+    width: 35%;
+    float: left;
+    padding: 13px;
+    margin-top: 2px;
+    margin-right: 2px;
+    background-color: rgb(130, 210, 212);
+}
+.card2 {
+    width: 18%;
+    float: left;
+    padding: 8px;
+    margin-top: 2px;
+    margin-right: 1px;
+    background-color: rgb(71, 180, 182);
+}
+.card3 {
+    width: 43%;
+    padding: 1px;
+    float: right;
+    margin-top: 2px;
+    
+    background-color: rgb(17, 134, 136);
+}
+
+.content {
+    padding: 0 auto 0 auto;           
+}
+
+.container {
+    width: 1215px;
+    margin: 0 auto 7% auto;
+    
+}
+
+/* www.patika.dev */
